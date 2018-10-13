@@ -1,5 +1,5 @@
 // Example 1 from page 3
-//
+// writing comments
 
 
 class Comments {
